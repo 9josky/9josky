@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=9josky)
 - 🔭 I’m currently working on Building Cool Projects
 - 🌱 I’m currently learning Python
-- 👯 I’m looking for interships opportunities on front-end development                    ![Programmer GIF](https://i.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp)
+- 👯 I’m looking for intership opportunities as a front-end developer                   ![Programmer GIF](https://i.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp)
 - 👨‍💻 All of my projects are available at https://github.com/9josky
 - 📫 How to reach me: nijoskysadeeq@gmail.com
 - ⚡ Fun fact: 
