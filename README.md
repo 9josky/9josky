@@ -13,7 +13,8 @@
 
 
 ### Languages and Tools:
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/-React_Native-blue?style=for-the-badge&logo=react) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript) ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?style=for-the-badge&logo=tailwind-css) ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5) ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python) ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/-React_Native-blue?style=for-the-badge&logo=react) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript) ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?style=for-the-badge&logo=tailwind-css) ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5) ![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python) ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap) ![Sass](https://img.shields.io/badge/-Sass-purple?style=for-the-badge&logo=sass)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9josky&layout=compact)
 
